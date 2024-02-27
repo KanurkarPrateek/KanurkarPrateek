@@ -5,7 +5,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prateek-kanurkar-239366249) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@prateekkanurkar3415) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KanurkarPrateek&label=Profile%20views&color=0e75b6&style=flat" alt="pawanbondre67" /> </p>
 
 
 # 💻 Tech Stack:
