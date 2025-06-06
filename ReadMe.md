@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Web Dev<br>👯 I’m looking to collaborate on Blockchain and DevOps Projects<br>🤝 I’m looking for help with Backend Dev<br>🌱 I’m currently learning Web Dev<br>💬 Ask me about Blockchain<br>⚡ Fun fact "Programming languages are just tools used to solve problems"
 
 
 ## 🌐 Socials:
@@ -7,8 +5,6 @@
 
 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KanurkarPrateek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KanurkarPrateek&theme=dark&hide_border=false)<br/>
