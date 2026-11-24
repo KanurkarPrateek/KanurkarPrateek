@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.prateekkanurkar.in"><img src="https://img.shields.io/badge/portfolio-7aa2f7?style=for-the-badge&labelColor=1a1b27" /></a>
+<a href="https://www.opsprateek.in"><img src="https://img.shields.io/badge/portfolio-7aa2f7?style=for-the-badge&labelColor=1a1b27" /></a>
 <a href="https://www.linkedin.com/in/prateek-kanurkar-239366249/"><img src="https://img.shields.io/badge/linkedin-bb9af7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" /></a>
 <a href="mailto:prateekkanurkar@gmail.com"><img src="https://img.shields.io/badge/email-7dcfff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
 <a href="https://youtube.com/@prateekkanurkar3415"><img src="https://img.shields.io/badge/youtube-f7768e?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1b27" /></a>
